@@ -59,9 +59,10 @@ Logs unexpected errors to: C:\Temp\SlideUpdateLog.txt
 SecurityCampaign/
 │
 ├── Program.cs           ← Main script logic
-├── SlideUpdateLog.txt   ← (Optional) Error log output
+├── SecurityCampaign.csproj ← Visual Studio project file
 ├── README.md            ← This file
-└── bin\Release\         ← Compiled `.exe` for deployment
+└── SecurityCampaign     ← C# Solution file
+
 ```
 
 ## Permissions Notes
